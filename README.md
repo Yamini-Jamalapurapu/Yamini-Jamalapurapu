@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
  
 - 🌱 I’m currently learning Git
-- 👯 I’m looking to collaborate with MNC's
+- 👯 I’m looking to collaborate with Web Designers
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Nothing
 - 📫 How to reach me: mail
